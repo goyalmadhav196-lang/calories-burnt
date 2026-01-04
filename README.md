@@ -1,2 +1,3 @@
 # calories-burnt
-this check how manycalories that you burnt
+Machine Learning project to predict calories burnt using exercise data
+
